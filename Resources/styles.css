@@ -165,14 +165,16 @@ body{
   border: 1px solid transparent;
   cursor:pointer;
 }
-
+.esg {
+  color: #ffffff
+}
 .esg:hover{
   text-decoration: none;
   cursor:pointer
 }
 
 .esg:visited{
-  color: #ffffff;
+  color: darkgreen;
 }
 
   .section1 p{
