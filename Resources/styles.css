@@ -232,8 +232,9 @@ body{
  
   }
   .contact a{
-    color: white;
-    text-decoration: underline;
+    color: hsla(170,60%,40%,0.9);
+    font-size: 1rem;
+    text-decoration: none;
   }
 
   .contact a:hover{
