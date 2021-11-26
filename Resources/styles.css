@@ -126,6 +126,16 @@ body{
     float: left;
     margin: auto;
 }
+.UXDesign {
+  background-color: hsl(155,60%,40%);
+    width: 50%;
+    font-family: 'Space Mono', Courier, monospace;
+    padding: 15px;
+    border-radius: 15px;
+    border: 1px solid hsl(155,60%,40%);
+    float: right;
+    margin: auto;
+}
 
 #instagram {
   background-color: white;
